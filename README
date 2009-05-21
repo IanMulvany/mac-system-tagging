@@ -1,0 +1,14 @@
+This project aims to create a suite of scripts to display spotlight comments
+tags and files from the command line.
+
+I want to do the following:
+
+- list tags by usage
+- list files and paths by tags
+- open a given file
+- search by boolean tagging
+- add a tag to a given file
+- remove a tag from a give file
+- list by tag and date modified
+- pass a string for searching within files and tags
+- make tag relations
