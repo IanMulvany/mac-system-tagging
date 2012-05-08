@@ -52,5 +52,5 @@ all_tags.sort()
 for tag in all_tags:
     print tag, 
 
-result = get_files_with_tag(all_tags[-1])
-print result
+#result = get_files_with_tag(all_tags[-1])
+#print result
