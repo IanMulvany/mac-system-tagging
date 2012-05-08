@@ -1,3 +1,13 @@
+
+Sun  9 May 2010 22:02:23 BST
+
+moving tagging over to openmeta standard
+
+to look for openmeta tags do the following:
+mdfind "kMDItemOMUserTags = '*example*'"
+
+
+
 This project aims to create a suite of scripts to display spotlight comments
 tags and files from the command line.
 
